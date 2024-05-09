@@ -37,10 +37,4 @@ This project demonstrates automated testing using Selenium WebDriver for a sampl
 - Thread.sleep() is used for demonstration purposes. In real-world scenarios, you might want to use more robust synchronization techniques.
 - Assertions are used to verify various actions during the test execution.
 
-## Author
 
-[Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
